@@ -235,7 +235,7 @@ main {
 */
 
 .service {
-  width: %;
+  width: 80%;
   min-height: 50vh;
   margin: auto;
   display: flex;
