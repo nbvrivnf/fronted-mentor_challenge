@@ -216,8 +216,10 @@ main {
 /*sec_01 は　ここから*/
 
 .sec_01 {
-  width: 100%;
+  width: 80%;
   height: auto;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 5em;
   margin-top: 2em;
 }
